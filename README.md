@@ -16,10 +16,14 @@ A lot of people are building the same kinds of things we are. We know that. It d
 
 We keep learning, keep up with new tools, and keep shipping. Each version is better than the last. We'd rather keep pushing on something we believe in than quit because the field is crowded.
 
-## What we're working on
+## What we're building
 
-- **[TamaFinance](https://github.com/TamaPlus/TamaFinance)**: personal finance tools for cash flow, budgets, savings goals and long-term planning.
-- **More on the way**: shared libraries, infrastructure and a single sign-in across Tama+ apps.
+- **[TurtleMock](https://turtlemock.com)**: mock APIs with callbacks, chaining and scripted rules. Hosted or self-hosted.
+- **[Jadiaja](https://jadiaja.com)**: digital wedding and engagement invitations, with a personal WhatsApp link for each guest.
+- **[Kalendermu](https://kalendermu.id)**: Indonesian calendar with national holidays, cuti bersama and Hijri dates.
+- **EndOfFeed**: a daily digest of your social feeds, so you don't have to scroll.
+- **BonCicil**: an offline Android app for recording debts and installments for small lenders and warung.
+- **Focus Tracker**: focus tracking for students.
 
 ## Want to help?
 
@@ -27,9 +31,8 @@ Browse the repositories, open an issue or send a pull request. New ideas are wel
 
 ## Contact
 
-- GitHub: [github.com/TamaPlus](https://github.com/TamaPlus)
-- Website: [tamaplus.dev](https://tamaplus.dev) (coming soon)
-- Email: corporate@tamaplus.dev
+- Website: [tamasoft.my.id](https://tamasoft.my.id)
+- GitHub: [github.com/tamaplus](https://github.com/tamaplus)
 
 ---
 
