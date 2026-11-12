@@ -1,59 +1,36 @@
-# Tama+ 🌐
-> **"Correcting the Present. Engineering the Future."**
+# Tama+
 
-Welcome to the official GitHub headquarters of **Tama+**. We are a multi-sector technology corporation dedicated to building a seamless ecosystem of "Tama" branded solutions. Our mission is to integrate clarity, precision, and growth into every aspect of the modern digital life.
+> Still building. Still here.
 
----
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="Tama+ koi, redrawn every night from the day's GitHub activity" />
+</p>
 
-## 🏛 The Tama+ Ecosystem
-Our corporation operates through specialized sectors, each identified by our signature "Tama" prefix.
+Tama+ is a small team making software under the "Tama" name. We're still building, and we think what's coming is worth the wait.
 
-### 💰 Finance Sector: [TamaFinance](https://github.com/TamaPlus/TamaFinance)
-Our flagship financial intelligence suite.
-* **TamaCash:** Daily liquidity and cashflow monitoring.
-* **TamaBudget:** Monthly fiscal discipline and category management.
-* **TamaGoal:** Milestone-based savings and objective tracking.
-* **TamaFreedom:** Long-term wealth forecasting and independence planning.
+Behind it is a Go backend engineer with 4 years of experience. AI is changing how software gets built, so instead of only writing services for others, we're using what we know to build products of our own.
 
-### 🛰 Future Sectors (In Development)
-* **TamaCore:** Internal shared libraries and architectural foundations.
-* **TamaCloud:** Distributed infrastructure and secure data management.
-* **TamaAuth:** Universal identity and security protocols across all Tama+ apps.
+## Why we keep going
 
----
+A lot of people are building the same kinds of things we are. We know that. It doesn't stop us.
 
-## 🛠 Our Engineering Standards
-At Tama+, we don't just write code; we build infrastructure.
-* **Scalability:** Built to handle micro-interactions for millions of users.
-* **Integrity:** ACID-compliant data structures for absolute reliability.
-* **Security:** Zero-trust architecture and bank-level AES-256 encryption.
-* **Consistency:** A unified UI/UX language across all Tama+ products.
+We keep learning, keep up with new tools, and keep shipping. Each version is better than the last. We'd rather keep pushing on something we believe in than quit because the field is crowded.
 
----
+## What we're working on
 
-## 💻 Technical Stack
-Our teams utilize a cutting-edge, cross-platform stack:
-* **Languages:** TypeScript, Go, Python, Dart
-* **Frameworks:** Flutter, FastAPI, NestJS
-* **Infrastructure:** Docker, Kubernetes
-* **Database:** PostgreSQL, Redis
+- **[TamaFinance](https://github.com/TamaPlus/TamaFinance)**: personal finance tools for cash flow, budgets, savings goals and long-term planning.
+- **More on the way**: shared libraries, infrastructure and a single sign-in across Tama+ apps.
+
+## Want to help?
+
+Browse the repositories, open an issue or send a pull request. New ideas are welcome.
+
+## Contact
+
+- GitHub: [github.com/TamaPlus](https://github.com/TamaPlus)
+- Website: [tamaplus.dev](https://tamaplus.dev) (coming soon)
+- Email: corporate@tamaplus.dev
 
 ---
 
-## 🤝 Corporate Collaboration
-Tama+ is an open-innovation corporation. We welcome contributions from developers who align with our vision of high-precision software.
-
-1. **Explore:** Browse our sector-specific repositories.
-2. **Contribute:** Submit Pull Requests to the respective project leads.
-
----
-
-## 📫 Corporate Contact
-* **GitHub:** [github.com/TamaPlus](https://github.com/tamaPlus)
-* **Website:** [tamaplus.dev](https://tamaplus.dev) *(Coming Soon)*
-* **Inquiries:** corporate@tamaplus.dev
-
----
-> **"The plus is more than a symbol; it is our commitment to constant growth."**
-
-© 2026 Tama+ Corporation. All rights reserved.
+The plus means we keep growing.
