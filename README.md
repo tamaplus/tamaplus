@@ -6,17 +6,13 @@
   <img src="koi/koi.gif" width="256" alt="Tama+ koi, redrawn every night from the day's GitHub activity" />
 </p>
 
-Tama+ is a small team making software under the "Tama" name. We're still building, and we think what's coming is worth the wait.
+Hi, I'm Alfin, a backend engineer with 4+ years building fintech systems in Go: e-wallet core, core-banking integration, PPOB and bank integrations over REST and gRPC.
 
-Behind it is a Go backend engineer with 4 years of experience. AI is changing how software gets built, so instead of only writing services for others, we're using what we know to build products of our own.
+Tama+ is where I build side products outside my full-time role. It keeps me learning: new tools, AI-assisted development, and shipping something end to end, from API to deployment.
 
-## Why we keep going
+**Stack:** Go, PHP (Laravel), Java, Node.js, Python · PostgreSQL, MySQL, Redis · gRPC, REST, Kafka, NATS · Docker, CI/CD
 
-A lot of people are building the same kinds of things we are. We know that. It doesn't stop us.
-
-We keep learning, keep up with new tools, and keep shipping. Each version is better than the last. We'd rather keep pushing on something we believe in than quit because the field is crowded.
-
-## What we're building
+## Side projects
 
 - **[TurtleMock](https://turtlemock.com)**: mock APIs with callbacks, chaining and scripted rules. Hosted or self-hosted.
 - **[Jadiaja](https://jadiaja.com)**: digital wedding and engagement invitations, with a personal WhatsApp link for each guest.
@@ -25,15 +21,15 @@ We keep learning, keep up with new tools, and keep shipping. Each version is bet
 - **BonCicil**: an offline Android app for recording debts and installments for small lenders and warung.
 - **Focus Tracker**: focus tracking for students.
 
-## Want to help?
+- **[josjis-code](https://github.com/tamaplus/josjis-code)**: open-source agent skills for team codebases (docs, implementation, risk scans).
 
-Browse the repositories, open an issue or send a pull request. New ideas are welcome.
+Most of my work code is private. Happy to walk through it in an interview.
 
 ## Contact
 
+- LinkedIn: [linkedin.com/in/alfinfernandha](https://www.linkedin.com/in/alfinfernandha/)
 - Website: [tamasoft.my.id](https://tamasoft.my.id)
-- GitHub: [github.com/tamaplus](https://github.com/tamaplus)
 
 ---
 
-The plus means we keep growing.
+The plus means I keep growing.
