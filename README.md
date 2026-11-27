@@ -17,10 +17,6 @@ Tama+ is where I build side products outside my full-time role. It keeps me lear
 - **[TurtleMock](https://turtlemock.com)**: mock APIs with callbacks, chaining and scripted rules. Hosted or self-hosted.
 - **[Jadiaja](https://jadiaja.com)**: digital wedding and engagement invitations, with a personal WhatsApp link for each guest.
 - **[Kalendermu](https://kalendermu.id)**: Indonesian calendar with national holidays, cuti bersama and Hijri dates.
-- **EndOfFeed**: a daily digest of your social feeds, so you don't have to scroll.
-- **BonCicil**: an offline Android app for recording debts and installments for small lenders and warung.
-- **Focus Tracker**: focus tracking for students.
-
 - **[josjis-code](https://github.com/tamaplus/josjis-code)**: open-source agent skills for team codebases (docs, implementation, risk scans).
 
 Most of my work code is private. Happy to walk through it in an interview.
@@ -28,7 +24,6 @@ Most of my work code is private. Happy to walk through it in an interview.
 ## Contact
 
 - LinkedIn: [linkedin.com/in/alfinfernandha](https://www.linkedin.com/in/alfinfernandha/)
-- Website: [tamasoft.my.id](https://tamasoft.my.id)
 
 ---
 
